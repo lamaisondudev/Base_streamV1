@@ -1,4 +1,7 @@
 # Base_streamV1
+
+Lien des resources : https://mega.nz/folder/dLhi0SRY#V7kbzQptvB5eA4qCOgaDuw
+
 /!\ C'est ligne la sont a changer /!\
 endpoint_add_tcp "0.0.0.0:1318"
 endpoint_add_udp "0.0.0.0:1318"
